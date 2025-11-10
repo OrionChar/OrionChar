@@ -1,5 +1,5 @@
 ### Projects 🦾
-[log.news](https://github.com/orionchar/graduation-work-client)
+[neophyte](https://github.com/OrionChar/neophyte)
 
 ### Mini Apps 🕹️
 

@@ -3,7 +3,7 @@
 
 ### Mini Apps 🕹️
 
-[lego-avatar](https://github.com/OrionChar/labs_js_lego-avatar) • [obed-filter](https://github.com/orionchar/labs_js_obed-filter) • [blog](https://github.com/OrionChar/blog)
+[lego-avatar](https://github.com/OrionChar/labs_js_lego-avatar) • [blog](https://github.com/OrionChar/blog) • [obed-filter](https://github.com/orionchar/labs_js_obed-filter)
 
 ### Laboratory 🧪
 

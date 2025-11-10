@@ -7,7 +7,7 @@
 
 ### Laboratory 🧪
 
-#### JS Mechanics ⚙️
+#### JS Mechanics
 
 [drag-and-drop](https://github.com/orionchar/labs_js_drag-and-drop)
 
